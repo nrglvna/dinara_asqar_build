@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2fe95dd.css",
+    "main.js": "/static/js/main.a787e864.js",
+    "static/media/dinaraasqarvideo.mp4": "/static/media/dinaraasqarvideo.bd1a51f149e6c6c1f147.mp4",
+    "static/media/bg.png": "/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/findus.png": "/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/menu.png": "/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/case03.jpg": "/static/media/case03.5170cc7a2c2da5e66615.jpg",
+    "static/media/knife.png": "/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/dinara_asqar.png": "/static/media/dinara_asqar.cac1daad58a9f29cc93e.png",
+    "static/media/case05.jpg": "/static/media/case05.02251629865f7b378f4a.jpg",
+    "static/media/dinara_asqar_parallax.jpeg": "/static/media/dinara_asqar_parallax.902a7a935381bf32ecf0.jpeg",
+    "static/media/case01.jpg": "/static/media/case01.47482b88a2c1ad78f2a7.jpg",
+    "static/media/case04.jpeg": "/static/media/case04.e778db4c8e4b2837296c.jpeg",
+    "static/media/case02.jpg": "/static/media/case02.de69f1653da2680cc6f3.jpg",
+    "static/media/gallery06.jpeg": "/static/media/gallery06.1bbba96c5e908b6f2f78.jpeg",
+    "static/media/gallery05.jpeg": "/static/media/gallery05.1ab6006e401b3fa6d6f8.jpeg",
+    "static/media/gallery01.jpeg": "/static/media/gallery01.2458f0bbbdfc7ea1615f.jpeg",
+    "static/media/gallery02.jpeg": "/static/media/gallery02.2a4ae2290d8ba771ab30.jpeg",
+    "static/media/gallery03.jpeg": "/static/media/gallery03.fd3648dc4bb10e7edac5.jpeg",
+    "static/media/gallery04.jpeg": "/static/media/gallery04.cfcacdb7fb28cac66d96.jpeg",
+    "static/media/scope_logo.png": "/static/media/scope_logo.1dc2614e7631cd3457ac.png",
+    "static/media/parallax_logo.jpeg": "/static/media/parallax_logo.ab8e47f88c8e1cf0b93b.jpeg",
+    "static/media/sign.png": "/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "static/media/spoon.svg": "/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "index.html": "/index.html",
+    "main.c2fe95dd.css.map": "/static/css/main.c2fe95dd.css.map",
+    "main.a787e864.js.map": "/static/js/main.a787e864.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2fe95dd.css",
+    "static/js/main.a787e864.js"
+  ]
+}
